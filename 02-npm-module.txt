@@ -125,5 +125,18 @@ peerDependencies:
 
 peerDependencies are the packages that are required to be installed in the user's 
 environment.Example: react
+
 *****************************
 
+NPM Scripts
+
+prepublish: Run BEFORE the package is packed and published, as well as on local
+npm install without any arguments.
+
+Output:
+$ npm run prepublish
+
+> npm-basics@1.0.0 prepublish
+> echo 100
+
+100
