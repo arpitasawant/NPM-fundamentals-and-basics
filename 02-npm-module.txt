@@ -208,5 +208,12 @@ cowsay*     cowsay.ps1*  cowthink.cmd   node_modules/
 cowsay.cmd  cowthink*    cowthink.ps1*
 
 
+*****************************
+
+Caching: A technique of storing some of the modules which are installed
+locally on your system so that npm does not have to do it unnecessary.
+
+npm cache clean --force 
+-> Clean the cache
 
 
