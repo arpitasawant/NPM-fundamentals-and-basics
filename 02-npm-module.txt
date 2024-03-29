@@ -145,9 +145,23 @@ prestart,start,poststart : Run by the npm start command
 
 Output:
 
-npm run start
+npm start
 
 > npm-basics@1.0.0 start
 > echo 'This script was called'
 
 'This script was called'
+
+Any custom script can be added by running:
+
+npm run <script-name> 
+
+Output:
+
+ npm run custom_script
+
+> npm-basics@1.0.0 custom_script
+> echo 'Hello'
+
+'Hello'
+
