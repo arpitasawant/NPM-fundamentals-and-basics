@@ -2,6 +2,7 @@ mkdir npm_basics
 
 cd npm_basics
 
+*****************************
 Install lodash module:
 npm install lodash
 
@@ -21,11 +22,15 @@ tar -xvzf lodash-4.17.21.tar.gz
 
 -> Unzip the tar file
 
-****package.json****
+*********************************
+package.json
 
 npm init
 
 -> npm initization with package.json
+
+*****************************
+Remove
 
 rm package.json
 
