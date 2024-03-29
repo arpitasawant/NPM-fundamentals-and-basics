@@ -1,0 +1,16 @@
+mkdir npm_basics
+
+cd npm_basics
+
+Install lodash module:
+npm install lodash
+
+ls
+
+cd node_modules
+
+****How Does NPM install module?****
+
+npm view lodash
+-> The command is going to spit a tar file url that is the tarball URL.
+This is the tar file only thing npm receives from the developer
