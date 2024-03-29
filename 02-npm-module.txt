@@ -24,7 +24,9 @@ tar -xvzf lodash-4.17.21.tar.gz
 ****package.json****
 
 npm init
+
 -> npm initization with package.json
 
 rm package.json
+
 -> removing the file
