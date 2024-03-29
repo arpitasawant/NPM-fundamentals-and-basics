@@ -22,3 +22,7 @@ tar -xvzf lodash-4.17.21.tar.gz
 -> Unzip the tar file
 
 ****package.json****
+
+npm init
+-> npm initization with package.json
+
