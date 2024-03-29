@@ -81,3 +81,11 @@ npm i -g npm@latest
 ->It upgrade npm latest version
 
 
+*****************************
+
+Semantic Versioning: It has some guidelines to version your package and
+we have to follow MAJOR.MINOR.PATCH
+
+1. MAJOR version when you make incompatible API changes,
+2. MINOR version when you add functionality in a backwards compatible manner, and
+3. PATCH version when you make backwards compatible bug fixes.
