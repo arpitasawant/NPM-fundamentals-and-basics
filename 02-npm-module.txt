@@ -70,5 +70,14 @@ npm remove <name-of-your-package>
 
 npm uninstall <name-of-your-package>
 
+*****************************
+
+Local and global package:
+
+npm root -g
+->give you the location where your node modules are installed
+
+npm i -g npm@latest
+->It upgrade npm latest version
 
 
