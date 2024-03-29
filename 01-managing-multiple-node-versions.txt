@@ -9,6 +9,7 @@ sudo n latest
 -> It will grab the latest version of node which is available 
 and will install it on your system partly to the already installed version
 
+---------------------------------------
 To go back to your previous version use :
 
 sudo n 
