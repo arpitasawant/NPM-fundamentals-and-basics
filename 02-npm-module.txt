@@ -30,3 +30,13 @@ npm init
 rm package.json
 
 -> removing the file
+
+npm init -y
+
+-> -y flag (short for yes) will directly initialize the npm
+
+
+
+
+
+
