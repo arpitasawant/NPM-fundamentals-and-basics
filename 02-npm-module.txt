@@ -113,5 +113,13 @@ npm install webpack --save-dev
 -> If we want to install development tool instead of installing it in 
 production environment we can use this command which will create devDependencies.
 
+production:
 
+echo $NODE_ENV
+NODE_ENV="production" npm install
+
+The dependencies which are used by your application will go in production and 
+the devdependencies will contain dev packages which do not really need on production
+
+*****************************
 
