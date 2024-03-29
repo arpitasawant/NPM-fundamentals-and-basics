@@ -165,3 +165,25 @@ Output:
 
 'Hello'
 
+*****************************
+
+NPX - Node package executer
+
+Run tools without installing globally
+example: create-react-app
+
+1.To run local packages
+
+$ npx cowsay hello
+ _______
+< hello >
+ -------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+2.Run global binaries
+
+*****************************
