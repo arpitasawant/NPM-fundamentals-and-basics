@@ -97,3 +97,8 @@ package-lock.json
 nano package.json
 ->We can edit our file using nano
 
+^caret:
+It changes major,minor and patch to latest
+
+~tilde:
+It keeps major and minor numbers same and update the patch to latest one
