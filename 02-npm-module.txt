@@ -121,5 +121,9 @@ NODE_ENV="production" npm install
 The dependencies which are used by your application will go in production and 
 the devdependencies will contain dev packages which do not really need on production
 
+peerDependencies:
+
+peerDependencies are the packages that are required to be installed in the user's 
+environment.Example: react
 *****************************
 
