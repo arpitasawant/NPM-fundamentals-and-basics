@@ -33,7 +33,30 @@ rm package.json
 
 npm init -y
 
--> -y flag (short for yes) will directly initialize the npm
+-> -y flag (short for yes) will directly initialize the npm.
+
+cat package.json
+->
+{
+  "name": "npm-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+npm install lodash
+
+-> install lodash package
+
+npm i lodash
+
+-> shortcut to install lodash package
 
 
 
