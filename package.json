@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "custom_script":"echo 'Hello'",
     "prepublish":"echo 100",
      "start": "echo 'This script was called'", 
     "test": "echo \"Error: no test specified\" && exit 1"
