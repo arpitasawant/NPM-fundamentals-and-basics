@@ -187,3 +187,26 @@ $ npx cowsay hello
 2.Run global binaries
 
 *****************************
+
+Changing global packages installation location
+
+mkdir globalnodemodules
+--
+cd globalnodemodules
+--
+pwd
+/c/Users/Coditas/Documents/NPM-Basics/globalnodemodules
+--
+npm config set prefix /c/Users/Coditas/Documents/NPM-Basics/globalnodemodules
+--
+ls
+--
+npm i cowsay --global
+--
+ls
+cowsay*     cowsay.ps1*  cowthink.cmd   node_modules/
+cowsay.cmd  cowthink*    cowthink.ps1*
+
+
+
+
