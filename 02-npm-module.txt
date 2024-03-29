@@ -140,3 +140,14 @@ $ npm run prepublish
 > echo 100
 
 100
+
+prestart,start,poststart : Run by the npm start command
+
+Output:
+
+npm run start
+
+> npm-basics@1.0.0 start
+> echo 'This script was called'
+
+'This script was called'
