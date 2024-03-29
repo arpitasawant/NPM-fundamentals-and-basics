@@ -1,0 +1,30 @@
+node -v -> To check node version use this command
+
+****MacOS LINUX****
+
+sudo npm i -g n  
+-> this command works on MacOS
+
+sudo n latest 
+-> It will grab the latest version of node which is available 
+and will install it on your system partly to the already installed version
+
+To go back to your previous version use :
+
+sudo n 
+-> It will give list of all the versions available and hit enter for the
+specific version you want.
+
+To get specific version use:
+
+sudo n <version-number>
+
+
+****WINDOWS****
+
+npm -v 
+-> To check the installed version
+
+npm install -g npm@6.14.4
+->To change the version of npm and install it globally.Here,6.14.4 version
+is installed
