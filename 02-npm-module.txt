@@ -102,3 +102,16 @@ It changes major,minor and patch to latest
 
 ~tilde:
 It keeps major and minor numbers same and update the patch to latest one
+
+*****************************
+
+Dependencies
+
+devDependencies:
+
+npm install webpack --save-dev
+-> If we want to install development tool instead of installing it in 
+production environment we can use this command which will create devDependencies.
+
+
+
