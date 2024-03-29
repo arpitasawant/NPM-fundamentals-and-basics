@@ -50,6 +50,11 @@ cat package.json
   "license": "ISC"
 }
 
+
+npm install <name-of-package>
+->
+Example:
+
 npm install lodash
 
 -> install lodash package
@@ -58,7 +63,9 @@ npm i lodash
 
 -> shortcut to install lodash package
 
+To remove package:
 
+npm remove <name-of-your-package>
 
 
 
